@@ -1,0 +1,59 @@
+header {
+    background-color: lightblue;
+    text-align: center;
+    font-weight: bolder;
+    padding: 15px;
+}
+
+.one {
+    background-color: lightpink;
+    border-width: 10px;
+    border-color: green;
+    padding: 10px;
+}
+.topic1{
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+
+}
+.topic2{
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+
+}
+
+.two{
+    background-color: azure;
+    padding: 10px;
+}
+
+.topic3 {
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.three{
+    background-color: cyan;
+    padding: 10px;
+}
+
+.topic4{    
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+
+}
+
+.four {
+    background-color: orange;
+    padding: 10px;
+}
+
+footer {
+    background-color: rebeccapurple;
+    text-align: center;
+    color: white;
+}
