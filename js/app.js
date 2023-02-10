@@ -43,7 +43,7 @@ let result5 = ask5.toLowerCase();
 
 if (result5 === 'yes' || result5 === 'y'){
     alert('Perfect I hope you enjoy your stay');
-} else if (result4 === 'no' || result === 'n'){
+} else if (result5 === 'no' || result5 === 'n'){
     alert('Well I hope you like my website anyways!');
 }
 
