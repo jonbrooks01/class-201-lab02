@@ -7,8 +7,9 @@ header {
 
 .one {
     background-color: lightpink;
-    border-width: 10px;
-    border-color: green;
+    border-style: dotted;
+    border-width: 2px;
+    border-color: ;
     padding: 10px;
 }
 .topic1{
@@ -25,6 +26,9 @@ header {
 }
 
 .two{
+    border-style: dashed;
+    border-width: 2px;
+    border-color: green;
     background-color: azure;
     padding: 10px;
 }
@@ -36,6 +40,9 @@ header {
 }
 
 .three{
+    border-style: dotted;
+    border-color: black;
+    border-width: 2px;
     background-color: cyan;
     padding: 10px;
 }
@@ -49,16 +56,17 @@ header {
 
 .four {
     border-style: dashed;
-    border-color: lightgrey;
-    border-width: 5px;
-    background: linear-gradient(45deg,orange 75%, red 25%);
+    border-color: black;
+    border-width: 2px;
+    background-color: #D1001C;
+    color: aliceblue;
     padding: 10px;
 }
 
 footer {
-    
-    border-width: 20px;
-    border-color: red;
+    border-style: solid;
+    border-width: 2px;
+    border-color: orange;
     background-color: rebeccapurple;
     text-align: center;
     color: white;

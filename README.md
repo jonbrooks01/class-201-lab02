@@ -1,18 +1,20 @@
 # LAB - 02
 
-## Project Name
-I build an app with a direct and powerful purpose. It does all of the things that it accomplishes well. I should describe the purpose and functionality so those that visit my README understand the app
+## About Me Quiz
+
+This website displays prompts that ask the user yes and no questions about me the author.
+
 
 Author: Jonathan Brooks
-Links and Resources
-submission PR
-Any Links you used as reference
-Lighthouse Accessibility Report Score
-Provide a screenshot of your score after running a Lighthouse Accessibility report.
-Reflections and Comments
-Consider including the answers to your daily journal and submission questions here
-This is also a good place to reflect on the tools and resources used and learned
+
+### Reflections and Comments
+
+This was a challenging lab to incorporate the "toLowerCase and toUpperCase functions". In addition having the extra function to add a variance of "yes / y" was interesting to incorporate
+
+### Lighthouse Accessibility Report Score
 
 <img src ="img/lighthouse.png">
+
+## link for website [Here](https://jonbrooks01.github.io/class-201-lab02/)
 
 Credited by Code Fellows 2023
