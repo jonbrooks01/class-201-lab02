@@ -48,11 +48,17 @@ header {
 }
 
 .four {
-    background-color: orange;
+    border-style: dashed;
+    border-color: lightgrey;
+    border-width: 5px;
+    background: linear-gradient(45deg,orange 75%, red 25%);
     padding: 10px;
 }
 
 footer {
+    
+    border-width: 20px;
+    border-color: red;
     background-color: rebeccapurple;
     text-align: center;
     color: white;

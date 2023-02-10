@@ -1,10 +1,12 @@
 'use strict';
-alert('Hello Welcome to my ABOUT ME PAGE');
+
+let ask0 = prompt('What is your name?');
+alert('Hello ' + ask0 + ' welcome to my ABOUT ME PAGE');
 
 let ask1 = prompt('Would you like to know more about me? (yes/no)');
 let result = ask1.toLowerCase();
 
-if (result === 'yes') { 
+if (result === 'yes') {
     alert('Let\'s play!');
 } else if (result === 'no'){
     alert('we should play anyways!');
@@ -12,9 +14,9 @@ if (result === 'yes') {
 let ask2 = prompt('Do you think I live in Seattle? (yes/no)');
 let result2 = ask2.toLowerCase();
 
-if (result2 === 'yes') {
+if (result2 === 'no') {
     alert('Your right I do live in washington though');
-} else if (result2 === 'no'){
+} else if (result2 === 'yes'){
     alert ('actually I don\'t live in Seattle');
 }
 
@@ -42,7 +44,7 @@ let result5 = ask5.toLowerCase();
 if (result5 === 'yes'){
     alert('Perfect I hope you enjoy your stay');
 } else if (result4 === 'no'){
-    alert('Well I hope you like my website anyways!')
+    alert('Well I hope you like my website anyways!');
 }
 
-alert('Thanks for playing!!!')
+alert('Thanks for playing ' + ask0 + '!!!');
