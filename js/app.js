@@ -25,7 +25,7 @@ let result3 = ask3.toLowerCase();
 
 if (result3 === 'yes' || result3 === 'y'){
     alert('Yeah your right, I enjoy hiking and camping!');
-} else if (result3 === 'no' || result4 === 'n'){
+} else if (result3 === 'no' || result3 === 'n'){
     alert('Actually I do enjoy the outdoors, I hope you do as well!');
 }
 
