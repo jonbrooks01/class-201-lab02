@@ -12,6 +12,11 @@ header {
     border-color: ;
     padding: 10px;
 }
+
+.list1 {
+list-style-type: square;
+}
+
 .topic1{
     text-align: center;
     font-weight: bold;
@@ -30,7 +35,8 @@ header {
     border-width: 2px;
     border-color: green;
     background-color: azure;
-    padding: 10px;
+    padding: 20px;
+    
 }
 
 .topic3 {
@@ -44,7 +50,7 @@ header {
     border-color: black;
     border-width: 2px;
     background-color: cyan;
-    padding: 10px;
+    padding: 20px;
 }
 
 .topic4{    
@@ -62,6 +68,25 @@ header {
     color: aliceblue;
     padding: 10px;
 }
+
+.five{
+    background-color: lightgreen;
+    text-align: center;
+    padding: 10px;
+    font-style: italic;
+}
+.topic5{
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+    font-style: normal;
+}
+ol li{
+    text-align: center;
+    list-style-position: inside;
+    display: list-item;
+}
+
 
 footer {
     border-style: solid;

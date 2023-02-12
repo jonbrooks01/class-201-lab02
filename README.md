@@ -2,8 +2,7 @@
 
 ## About Me Quiz
 
-This website displays prompts that ask the user yes and no questions about me the author.
-
+This website displays prompts that ask the user yes and no questions about me the author. In addition the prompts include a guessing game and give your score at the end displaying how many questions you have gotten correct.
 
 Author: Jonathan Brooks
 
