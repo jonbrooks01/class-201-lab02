@@ -16,4 +16,10 @@ This was a challenging lab to incorporate the "toLowerCase and toUpperCase funct
 
 ## link for website [Here](https://jonbrooks01.github.io/class-201-lab02/)
 
+## Jonathan was Navigator
+
+## Zeegii was Driver
+
+Added functions by pair programming.
+
 Credited by Code Fellows 2023
